@@ -17,7 +17,7 @@
 <h2> hey folks 👋 </h1>
 </div>
 
-<h3> About Me 📝 </h3>
+### 📝 About Me
 
 <p>
 
@@ -25,8 +25,8 @@
 - 🏫 **Faculty:** Computers & Artificial Intelligence
 - 🔍 **Current Focus:** Competitive Programming
 - 📖 **Learning:**
-- Computer Science
-- AI / ML
+  - Computer Science
+  - AI / ML
 
 </p>
 
